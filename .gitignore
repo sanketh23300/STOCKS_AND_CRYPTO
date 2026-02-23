@@ -1,0 +1,38 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Data & model cache (auto-regenerated)
+data_cache/
+saved_models/
+
+# Environment variables
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Test scripts
+test_pipeline.py
+test_ml.py
+
+# Logs
+*.log
