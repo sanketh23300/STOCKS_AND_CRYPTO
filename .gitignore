@@ -33,6 +33,7 @@ desktop.ini
 # Test scripts
 test_pipeline.py
 test_ml.py
+check_syntax.py
 
 # Logs
 *.log
